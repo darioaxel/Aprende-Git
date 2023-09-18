@@ -9,6 +9,15 @@ Curso introductorio para el aprendizaje de Git y Github
 * Tarea 06: Sube contenidos a tu proyecto
 * Tarea 07: Crea tu perfil de desarrollador para Github
 
+## Tarea 02: Aprende la edición de texto usando Markdown 
+
+1. Visualiza el video sobre markdown
+2. Utiliza Visual Studio Code para crear un fichero Markdown llamado **holamundo.md**
+3. Dentro del fichero utiliza la sintaxis de títulos, negrita y cursiva
+
+   
+### Materiales
+[Introducción a Markdown](https://youtu.be/77Ggk1uzO2A?si=7CVo1beolu97HRNb&t=169)
   
 ## Materiales
 * Vídeos en castellano interesantes para el aprendizaje:
